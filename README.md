@@ -7,16 +7,18 @@ slack: ian_whitney
 
 ---
 
-# Introduction Slide
+![](images/silo_destruction.jpg)
 
-- Goal of TechPeople is to build bridges between Silos
-- Amanda Costello’s talk
+
+^Goal of TechPeople is to build bridges between Silos
+^Amanda Costello’s talk
+^As part of our mission, we'd like to talk about specific ways to remove these silos
 
 ---
 
-# Destroy Silos with GitHub
+![](images/silo_destruction_with_github.jpg)
 
-- image of silos being smashed with Octocat.
+^And today I'm going to show you how you can use GitHub to destroy silos
 
 ---
 
