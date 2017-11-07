@@ -1,5 +1,5 @@
 
-# Breaking Silos with Github
+# Destroying Silos with Github
 
 Ian Whitney
 email: whit0694
