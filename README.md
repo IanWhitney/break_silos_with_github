@@ -36,8 +36,12 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Collaboration = Destroying Silos
+![](images/collaboration.jpg)
 
+> Collaboration Destroys Silos
+> GitHub is Collaboration
+> Therefore GitHub Destroys Silos
+-- Aristotle
 
 ---
 
