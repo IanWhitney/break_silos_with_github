@@ -16,16 +16,23 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-## I thought that was for Coders
+![original](images/hacker_laptop.jpg)
 
-- Jenn has been introducing it to Communications, Designers, BAs, Data Analysts
+[.hide-footer]
+
+^I thought that was for Coders
+^Jenn has been introducing it to Communications, Designers, BAs, Data Analysts
+^A wide variety of users! Some don't even have stickers on their laptops
 
 ---
 
-## Or just a place to store stuff
+![original](images/file_cabinets.jpg)
 
-- If it was only that I’d be telling you to use Google Drive
-- But it’s a tool for collaboration
+[.hide-footer]
+
+^Or, maybe you think it's just a place to store stuff
+^If it was only that I’d be telling you to use Google Drive
+^But it’s a tool for collaboration
 
 ---
 
