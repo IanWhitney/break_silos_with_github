@@ -1,4 +1,4 @@
-footer: Ian Whitney -- whit0694 (email) --  ian_whitney (slack)
+footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ![original](images/silo_destruction_with_github.jpg)
 
