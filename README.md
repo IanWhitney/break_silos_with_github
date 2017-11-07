@@ -45,27 +45,59 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Silo One: Yourself
+# TBD: Transition
 
-- The most important, and maybe surprising, silo is yourself.
+^ Something to move us to types of silos and relevant GitHub tools
 
 ---
 
-## You last week/month/year is not the you of today
+# Silo One: Yourself
 
-- What Changed
-	- Diffs
-		- Text
-		- Images
-		- Pdfs
-	- Whole Repo comparisons
+^ The idea of you as a silo may be surprising.
 
-- Why Did it change
-	- GitHub lets you leave messages to your future self.
-		- Why I changed this
-		- What I was thinking
-	- Commit messages
-		- Example of good and bad
+---
+
+![original](images/doctors_who.jpg)
+
+[.hide-footer]
+
+^ You last week/month/year is not the you of today
+^ What work were you doing? Why were you doing it?
+
+---
+
+# TBD: Transition to What
+
+---
+
+![](placeholder.mov)
+
+^ This movie demonstrates text diffing
+
+---
+
+![](placeholder.mov)
+
+^ This movie demonstrates image diffing
+
+---
+
+![](placeholder.mov)
+
+^ This movie demonstrates diffs between releases
+
+---
+
+# TBD: Transition to Why
+
+---
+
+^ Why Did it change
+	^ GitHub lets you leave messages to your future self.
+		^ Why I changed this
+		^ What I was thinking
+	^ Commit messages
+		^ Example of good and bad
 
 ---
 
