@@ -1,28 +1,20 @@
+footer: Ian Whitney -- whit0694 (email) --  ian_whitney (slack)
 
-# Destroying Silos with Github
+![original](images/silo_destruction_with_github.jpg)
 
-Ian Whitney
-email: whit0694
-slack: ian_whitney
-
----
-
-![](images/silo_destruction.jpg)
-
+[.hide-footer]
 
 ^Goal of TechPeople is to build bridges between Silos
 ^Amanda Costello’s talk
 ^As part of our mission, we'd like to talk about specific ways to remove these silos
-
----
-
-![](images/silo_destruction_with_github.jpg)
-
 ^And today I'm going to show you how you can use GitHub to destroy silos
+
 
 ---
 
 # Wait, GitHub?
+
+
 
 ---
 
