@@ -12,9 +12,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Wait, GitHub?
-
-
+> Wait, GitHub?
 
 ---
 
