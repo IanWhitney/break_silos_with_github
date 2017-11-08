@@ -54,6 +54,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 # Silo One: Yourself
 
 ^ The idea of you as a silo may be surprising.
+^ But if you've ever had to look back at work you wrote a year ago, you know how unfamiliar your own work can be
 
 ---
 
@@ -66,7 +67,10 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# TBD: Transition to What
+> Using GitHub to answer, "What Changed?"
+
+^ Let's start with the first question. 
+^ Your project used to work, now it doesn't. What changed?
 
 ---
 
@@ -88,16 +92,37 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# TBD: Transition to Why
+> Using GitHub to answer, "Why?"
+
+^ What Changed is a useful question to answer
+^ But if you change it back will you break something else?
+^ Why is far more powerful.
 
 ---
 
-^ Why Did it change
-	^ GitHub lets you leave messages to your future self.
-		^ Why I changed this
-		^ What I was thinking
-	^ Commit messages
-		^ Example of good and bad
+![](placeholder.jpg)
+
+^ GitHub lets you send a message to your future self.
+^ You can use this to warn yourself of dangers long forgotten
+
+---
+
+![](placeholder.jpg)
+
+^ The value of this message is up to you.
+
+---
+
+![](placeholder.jpg)
+
+^ You can leave your self a cryptic message devoid of any context
+
+---
+
+![](placeholder.jpg)
+
+^ Or you can explain what you were thinking
+^ And what future you should keep in mind before changing things again
 
 ---
 
