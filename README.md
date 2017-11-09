@@ -35,6 +35,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ^But it’s a tool for collaboration
 
 ---
+[.footer: WOCinTech Chat]
 
 ![](images/collaboration.jpg)
 
