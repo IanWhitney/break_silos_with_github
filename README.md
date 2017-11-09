@@ -52,6 +52,11 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
+[.footer: WOCinTech Chat]
+
+![right] (images/yourself.jpg)
+
+
 # Silo One: Yourself
 
 ^ The idea of you as a silo may be surprising.
@@ -75,19 +80,19 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-![](placeholder.mov)
+![fit](images/diff_example.png)
 
 ^ This movie demonstrates text diffing
 
 ---
 
-![](placeholder.mov)
+![fit](images/images_onion_view.gif)
 
 ^ This movie demonstrates image diffing
 
 ---
 
-![](placeholder.mov)
+![](images/repo_compare.gif)
 
 ^ This movie demonstrates diffs between releases
 
@@ -101,26 +106,21 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-![](placeholder.jpg)
+# [fit] Dear Future Self...
 
 ^ GitHub lets you send a message to your future self.
 ^ You can use this to warn yourself of dangers long forgotten
-
----
-
-![](placeholder.jpg)
-
 ^ The value of this message is up to you.
 
 ---
 
-![](placeholder.jpg)
+![fit](images/bad_commit.png)
 
 ^ You can leave your self a cryptic message devoid of any context
 
 ---
 
-![](placeholder.jpg)
+![fit](images/good_commit.png)
 
 ^ Or you can explain what you were thinking
 ^ And what future you should keep in mind before changing things again
