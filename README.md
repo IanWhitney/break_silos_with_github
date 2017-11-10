@@ -127,15 +127,56 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-## Your Team
-- You all work on the same team, but you’re still individuals. Silos can form.
-- Readmes
-	- GitHub puts a text file, named Readme, front and center.
-	- Simple setup directions, explanations of what this thing does.
-- Wikis
-	- If a single readme is not enough, you can host a whole Wiki
-- Pull Requests & Reviews
-	- When someone wants to change something, you can give the team a chance to review and comment
+[.footer: WOCinTech Chat]
+
+![right fit] (images/your_team.jpg)
+
+# Silo Two:<br />Your Team
+
+^ You all work on the same team, but you’re still individuals. Silos can form.
+^ Maybe you do most of the work on a project, and now a co-worker needs to help out
+^ Or you end up fixing something while your co-worker is out on vacation
+
+---
+
+- How can you introduce projects your team?
+- How can they make changes if you're not around?
+- How can the team be aware of changes that are being made?
+
+^ They can use the tools we already saw -- comparing and looking at commits
+^ But GitHub offers tools that are great for teams!
+
+---
+
+[.footer: https://z.umn.edu/tp\_iw\_readme]
+
+> Your README is your code’s most important work of documentation.
+-- Steve Richert
+
+^ Readmes
+	^ GitHub puts a text file, named Readme, front and center.
+	^ Simple setup directions, explanations of what this thing does.
+	^ Go deeper. Philosophy, history, intent
+
+---
+
+[.hide-footer]
+
+![](images/wiki.png)
+
+^ Wikis
+	^ If a single readme is not enough, you can host a whole Wiki
+
+---
+
+[.hide-footer]
+
+![autoplay loop mute](movies/pr.mov)
+
+^ Pull Requests & Reviews
+	^ When someone wants to change something, you can give the team a chance to review and comment
+  ^ In this PR my teammate Shawn was creating a new library and my co-worker Davin offered some suggestions. Now both Shawn and Davin know what this code does.
+
 ---
 
 ## Your Department
