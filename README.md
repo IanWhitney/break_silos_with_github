@@ -205,3 +205,12 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 - Learn more
 	- lunch
 	- github docs
+
+--- 
+
+# This Is Great
+## Now What?
+
+^ A slide for action items.
+^ How do I get started with GitHub?
+^ How do I learn more?
