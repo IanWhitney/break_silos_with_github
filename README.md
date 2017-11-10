@@ -86,6 +86,8 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
+[.hide-footer]
+
 ![fit](images/images_onion_view.gif)
 
 ^ This movie demonstrates image diffing
@@ -119,6 +121,8 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ^ You can leave your self a cryptic message devoid of any context
 
 ---
+
+[.hide-footer]
 
 ![fit](images/good_commit.png)
 
