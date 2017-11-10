@@ -183,14 +183,49 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-## Your Department
-- Your team is communicating well, now it’s time to break down the silo that separates you from the rest of your department
-- You want a pretty web page to tell everyone about one of your projects, or your team
-	- Pages
-- Maybe there’s the one BA over in a different office who knows a lot about X
-	- Teams!
-- Maybe the director wants to see how much progress you’re making towards Y
-	- Projects & Milestones
+[.footer: WOCinTech Chat]
+
+![right fit] (images/your_department.jpg)
+
+# Silo Three:<br />Your Department
+
+^ Your team is communicating well, now it’s time to break down the silo that separates you from the rest of your department
+^ You want a web page to tell everyone about one of your projects, or your team
+^ You want to collaborate with a BA in a different part of your department
+^ You want to show the director how much progress you're making
+
+--- 
+
+- Use **Pages** to show off your team or projects
+- Use **Teams** to collaborate with others
+- Use **Projects** to show managers your progress
+
+---
+
+![](images/pages.png)
+
+^ With GitHub Pages you can create simple websites of any size.
+  ^ And you manage them within GitHub, so you have access to all of GitHub's tools
+    ^ Commits, comparing changes, pull requests, the works
+^ When you make a change, your site is updated within minutes
+  ^ Use github.umn.edu to create a page that's only visible to people on campus
+  ^ Or use github.com to create a page that's visible world wide.
+
+---
+
+![](images/teams.png)
+
+^ A lot of projects need a wide range of experts.
+^ You might manage the code, but need to collaborate with a BA from a different part of your department.
+^ A Team in GitHub allows you to collaborate with anyone
+
+---
+
+![](images/projects.png)
+
+^ Integration with Jira/Pivotal/Trello/etc
+^ Not sure if this slide is worth it.
+
 ---
 
 ## Your University
