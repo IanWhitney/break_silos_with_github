@@ -228,18 +228,42 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-## Your University
-- Releasing your work to the world
-	- Releases
-	- Announce the changes
-	- Give others a chance to use your work
-- Watches_Stars_Following Users
-	- Connect with other people at the U that do work you like
-	- Hear about their new stuff
-	- Or they can hear about what you’re up to!
-- Learn more
-	- lunch
-	- github docs
+![right fit] (images/your_university.png)
+
+# Silo Three:<br />Your University
+
+^Your department is humming.
+^Now let's break down the walls between your department and the rest of the University
+^All the same tools still apply.
+  ^Readmes, Wikis and Pages to publicize your work
+  ^Teams to collaborate with others
+^But there are more!
+
+---
+
+![](images/organizations.png)
+
+^Check out the projects maintained by a department similar to yours
+
+---
+
+![](images/follow.png)
+
+^Follow users that do work you're interested in
+
+---
+
+![](images/watch.png)
+
+^Watch a project that you care about
+  ^Get notified of new changes or issues
+
+---
+
+![](images/issue.mov)
+
+^Make a suggestion
+  ^Ask for help with the `@` sign
 
 --- 
 
