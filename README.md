@@ -60,29 +60,37 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 # Silo One: Yourself
 
 ^ The idea of you as a silo may be surprising.
-^ But if you've ever had to look back at work you wrote a year ago, you know how unfamiliar your own work can be
+^ But if you've ever had to look back at work you wrote a year ago, you know how unfamiliar your own work can be.
 
 ---
 
-![original](images/doctors_who.jpg)
+# Silo One: Yourself
 
-[.hide-footer]
+- What changed?!
+- Why?!
 
-^ You last week/month/year is not the you of today
-^ What work were you doing? Why were you doing it?
+^ When I go back to something I worked on that's now broken, these are the two questions I have. What Change and Why.
 
 ---
 
-> Using GitHub to answer, "What Changed?"
+# Destroying Silo One
 
-^ Let's start with the first question. 
-^ Your project used to work, now it doesn't. What changed?
+- Use **Comparsions** to see what changed
+- Use **Commits** to see why
+
+---
+
+# Use **Comparsions** to see what changed
 
 ---
 
 ![fit](images/diff_example.png)
 
-^ This movie demonstrates text diffing
+^ This is an example of a comparison to see what changed.
+^ On the left is the old version of the file, the new version is on the right
+^ Red lines are deleted, green lines added
+^ So we can easily see here that 2 lines were replaced with 8 new lines
+^ You can do this for a single file, or for a bunch all at once.
 
 ---
 
@@ -90,35 +98,25 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ![fit](images/images_onion_view.gif)
 
-^ This movie demonstrates image diffing
+^ You can also Compare versions of images.
 
 ---
 
-![](images/repo_compare.gif)
-
-^ This movie demonstrates diffs between releases
+# Use **Commits** to see what changed
 
 ---
 
-> Using GitHub to answer, "Why?"
+![fit](images/empty_commit.png)
 
-^ What Changed is a useful question to answer
-^ But if you change it back will you break something else?
-^ Why is far more powerful.
-
----
-
-# [fit] Dear Future Self...
-
-^ GitHub lets you send a message to your future self.
-^ You can use this to warn yourself of dangers long forgotten
-^ The value of this message is up to you.
+^ When you change a file you include a message, called the Commit Message.
+^ Think hard about what you put in your Commit Message. This is a message to future you where you can explain why you made this change
 
 ---
 
 ![fit](images/bad_commit.png)
 
-^ You can leave your self a cryptic message devoid of any context
+^ You can leave your self a cryptic message devoid of any context, like I did here.
+^ Why was it silly? Will bad things happen if I change it back?
 
 ---
 
@@ -142,9 +140,9 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ^ Or you end up fixing something while your co-worker is out on vacation
 
 ---
+# Silo Two:<br />Your Team
 
-- How can you introduce projects your team?
-- How can they make changes if you're not around?
+- How can you introduce projects to your team?
 - How can the team be aware of changes that are being made?
 
 ^ They can use the tools we already saw -- comparing and looking at commits
@@ -152,24 +150,28 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-[.footer: https://z.umn.edu/tp\_iw\_readme]
+# Destroying Silo Two
 
-> Your README is your code’s most important work of documentation.
--- Steve Richert
+- Use **Readme** to introduce your projects
+- Use **Pull Requests** to manage changes
 
-^ Readmes
-	^ GitHub puts a text file, named Readme, front and center.
-	^ Simple setup directions, explanations of what this thing does.
-	^ Go deeper. Philosophy, history, intent
+---
+
+# Use **Readme** to introduce your projects
 
 ---
 
 [.hide-footer]
 
-![](images/wiki.png)
+![](images/readme.png)
 
-^ Wikis
-	^ If a single readme is not enough, you can host a whole Wiki
+^ Readmes
+	^ GitHub puts a text file, named Readme, front and center.
+	^ A place to introduce what a project does and how to use it
+
+---
+
+# Use **Pull Requests** to manage changes
 
 ---
 
@@ -177,9 +179,12 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ![autoplay loop mute](movies/pr.mov)
 
-^ Pull Requests & Reviews
-	^ When someone wants to change something, you can give the team a chance to review and comment
-  ^ In this PR my teammate Shawn was creating a new library and my co-worker Davin offered some suggestions. Now both Shawn and Davin know what this code does.
+^ Situations we've probably all been in.
+  ^ Unbeknownst to you, a team-mate makes a change and heads off on vacation. When that first frantic support call comes in, you have no idea what's going on.
+  ^ Or, you make a change only to find out that you ended up breaking a team-mate's project. 
+  ^ If only you had a way of publicizing these changes!
+  ^ With Pull Requests, GitHub gives you a tool to publicize and discuss changes.
+  ^ In this PR my teammate Shawn was creating a new library and my co-worker Davin offered some suggestions to improve it. Now both Shawn and Davin know what this code does. And neither will be caught off guard by the change.
 
 ---
 
@@ -194,17 +199,31 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ^ You want to collaborate with a BA in a different part of your department
 ^ You want to show the director how much progress you're making
 
+---
+
+# Silo Three:<br />Your Department
+
+- No one else in your department knows what you do
+- Your project needs help from people in 3 other teams
+- Your manager wants to see progress in Jira/Trello/Etc
+
 --- 
 
+# Destroying Silo Three
+
 - Use **Pages** to show off your team or projects
-- Use **Teams** to collaborate with others
-- Use **Projects** to show managers your progress
+- Use **Teams** to collaborate with other people
+- Use **Integrations** to work with other tools
+
+---
+
+# Use **Pages** to show off your team or projects
 
 ---
 
 ![](images/pages.png)
 
-^ With GitHub Pages you can create simple websites of any size.
+^ GitHub Pages lets you create simple, static websites of any size.
   ^ And you manage them within GitHub, so you have access to all of GitHub's tools
     ^ Commits, comparing changes, pull requests, the works
 ^ When you make a change, your site is updated within minutes
@@ -213,24 +232,38 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
+# Use **Teams** to collaborate with other people
+
+---
+
 ![](images/teams.png)
 
 ^ A lot of projects need a wide range of experts.
 ^ You might manage the code, but need to collaborate with a BA from a different part of your department.
-^ A Team in GitHub allows you to collaborate with anyone
+^ A GitHub Team lets you share access to your work
 
 ---
 
-![](images/projects.png)
+# Use **Integrations** to work with other tools
 
-^ Integration with Jira/Pivotal/Trello/etc
-^ Not sure if this slide is worth it.
+---
+
+# Integrations
+
+- Trello
+- Jira
+- Slack
+- Pivotal
+- Etc.
+
+^ GitHub integrates with a huge number of other tools, probably including the one your manager wants to use.
+^ And it integrates with a bunch of other tools, like Travis CI, which we'll be talking about at an upcoming Code People meeting.
 
 ---
 
 ![right fit] (images/your_university.png)
 
-# Silo Three:<br />Your University
+# Silo Four:<br />Your University
 
 ^Your department is humming.
 ^Now let's break down the walls between your department and the rest of the University
@@ -241,35 +274,105 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-![](images/organizations.png)
+# Silo Four:<br />Your University
 
-^Check out the projects maintained by a department similar to yours
+- You want to know what another department is working on
+- You want to know when a project changes
+- You want to know what another person is working on
+- You want to tell another person about a change
 
 ---
 
-![](images/follow.png)
+# Destroying Silo Four
 
-^Follow users that do work you're interested in
+- Use **Organizations** to see what a department is working on
+- Use **Watch** to see when a project changes
+- Use **Follow** to see what a developer is working on
+- Use **@** to notify others
+
+---
+
+# Use **Organizations** to see what a department is working on
+
+---
+
+![](images/organizations.png)
+
+^There's a department or team you collaborate with, or that you want to collaborate with
+^ Check out their "Organization" page to see their projects and recent changes
+
+---
+
+# Use **Watch** to see when a project changes
 
 ---
 
 ![](images/watch.png)
 
-^Watch a project that you care about
-  ^Get notified of new changes or issues
+^There's a project that you use, and you want to know when it changes
+^If you choose "Watch" then you'll be emailed about Pull Requests and other discussions.
 
 ---
 
-![](images/issue.mov)
+# Use **Follow** to see what a developer is working on
 
-^Make a suggestion
-  ^Ask for help with the `@` sign
+---
+
+![](images/follow.png)
+
+^There's a developer or you collaborate with, or that you want to collaborate with
+^ Check out their page to see their projects and recent changes
+^ Click "Follow" to "receive notifications about their activity"
+
+---
+
+# Use **@** to notify others
+
+---
+
+[.hide-footer]
+
+![autoplay mute loop](movies/issue.mov)
+
+^I had a question about a feature Elleni requested
+^When I include her internet id, prefixed with the `@` sign, she's notified
 
 --- 
 
 # This Is Great
 ## Now What?
 
-^ A slide for action items.
-^ How do I get started with GitHub?
-^ How do I learn more?
+- How can I read more?
+- How can I talk to others?
+
+---
+
+# How can I read more?
+
+### https://help.github.com
+
+---
+
+# How can I talk to others?
+## Online
+
+### https://z.umn.edu/tpslack
+### \#github or #hacker-hours
+
+---
+
+# How can I talk to others?
+## In Person
+
+### http://umnhackerhours.github.io
+
+---
+
+![](images/socialite.jpg)
+
+# Thank You!
+
+## Ian Whitney
+### `whit0694` (email)
+### `ian_whitney` (Slack)
+### `Surdyk's in Northrop` (coffee)
