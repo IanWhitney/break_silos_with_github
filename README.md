@@ -1,6 +1,20 @@
 footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
-![original](images/silo_destruction_with_github.jpg)
+[.footer: Wikimedia]
+
+![](images/destroying_silos.jpg)
+
+^Goal of TechPeople is to build bridges between Silos
+^Amanda Costello’s talk
+^As part of our mission, we'd like to talk about specific ways to remove these silos
+
+---
+
+![](images/destroying_silos.jpg)
+
+# [fit] Destroying
+# [fit] Silos With
+# [fit] GitHub
 
 [.hide-footer]
 
@@ -11,13 +25,14 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-> Wait, GitHub?
+# [fit] Wait,
+# [fit] GitHub?
 
 ---
 
-![original](images/hacker_laptop.jpg)
+[.footer: Flickr: thevoicewithin]
 
-[.hide-footer]
+![original](images/hacker_laptop.png)
 
 ^I thought that was for Coders
 ^Jenn has been introducing it to Communications, Designers, BAs, Data Analysts
@@ -25,13 +40,18 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-![original](images/file_cabinets.jpg)
+[.footer: Wikimedia]
 
-[.hide-footer]
+![original](images/card_catalog.jpg)
 
 ^Or, maybe you think it's just a place to store stuff
 ^If it was only that I’d be telling you to use Google Drive
 ^But it’s a tool for collaboration
+
+---
+
+# [fit] GitHub
+# [fit] is Collaboration
 
 ---
 [.footer: WOCinTech Chat]
@@ -45,7 +65,8 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# TBD: Transition
+# [fit] OK
+# [fit] Let's destroy silos!
 
 ^ Something to move us to types of silos and relevant GitHub tools
 
