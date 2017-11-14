@@ -316,7 +316,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ^Your department is humming.
 ^Now let's break down the walls between your department and the rest of the University
 ^All the same tools still apply.
-  ^Readmes, Wikis and Pages to publicize your work
+  ^Readmes and Pages to publicize your work
   ^Teams to collaborate with others
 ^But there are more!
 
