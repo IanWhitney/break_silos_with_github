@@ -57,14 +57,15 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ![right] (images/yourself.jpg)
 
 
-# Silo One: Yourself
+# [fit] Silo One
+# [fit] **Yourself**
 
 ^ The idea of you as a silo may be surprising.
 ^ But if you've ever had to look back at work you wrote a year ago, you know how unfamiliar your own work can be.
 
 ---
 
-# Silo One: Yourself
+# [fit] Silo One: **Yourself**
 
 - I have no idea what I changed a year ago
 - I do not know why I made that change
@@ -140,14 +141,15 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ![right fit] (images/your_team.jpg)
 
-# Silo Two:<br />Your Team
+# [fit] Silo Two
+# [fit] **Your Team**
 
 ^ You all work on the same team, but you’re still individuals. Silos can form.
 ^ Maybe you do most of the work on a project, and now a co-worker needs to help out
 ^ Or you end up fixing something while your co-worker is out on vacation
 
 ---
-# Silo Two:<br />Your Team
+# [fit] Silo Two: **Your Team**
 
 - My team does not know what this project does
 - I do not know about changes they make
@@ -207,7 +209,8 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ![right fit] (images/your_department.jpg)
 
-# Silo Three:<br />Your Department
+# [fit] Silo Three
+# [fit] **Your Department**
 
 ^ Your team is communicating well, now it’s time to break down the silo that separates you from the rest of your department
 ^ You want a web page to tell everyone about one of your projects, or your team
@@ -216,7 +219,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Silo Three:<br />Your Department
+# [fit] Silo Three: **Your Department**
 
 - My department doesn't know what my team does
 - My team needs to work with people across my department
@@ -289,7 +292,8 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ![right fit] (images/your_university.png)
 
-# Silo Four:<br />Your University
+# [fit] Silo Four
+# [fit] **Your University**
 
 ^Your department is humming.
 ^Now let's break down the walls between your department and the rest of the University
@@ -300,7 +304,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Silo Four:<br />Your University
+# [fit] Silo Four: **Your University**
 
 - What does that department do?
 - What's up with that project?
