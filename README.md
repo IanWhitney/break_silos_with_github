@@ -9,7 +9,6 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ^As part of our mission, we'd like to talk about specific ways to remove these silos
 ^And today I'm going to show you how you can use GitHub to destroy silos
 
-
 ---
 
 > Wait, GitHub?
@@ -74,7 +73,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Destroying Silo One
+# [fit] Destroying Silo One
 
 - Use **Comparsions** to see what changed
 - Use **Commits** to see why
@@ -159,7 +158,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Destroying Silo Two
+# [fit] Destroying Silo Two
 
 - Use **Readme** to introduce your projects
 - Use **Pull Requests** to manage changes
@@ -227,7 +226,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 --- 
 
-# Destroying Silo Three
+# [fit] Destroying Silo Three
 
 - Use **Pages** to show off your team
 - Use **Teams** to collaborate with others
@@ -241,6 +240,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ### My department doesn't know what my team does
 ---
+[.hide-footer]
 
 ![](images/pages.png)
 
@@ -260,6 +260,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ### My team needs to work with people across my department
 
 ---
+[.hide-footer]
 
 ![](images/teams.png)
 
@@ -276,17 +277,13 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ### My manager wants to see progress in Jira/Trello/Etc
 
 ---
+[.hide-footer]
 
-# Integrations
+![](images/integrations.png)
 
-- Trello
-- Jira
-- Slack
-- Pivotal
-- Etc.
-
-^ GitHub integrates with a huge number of other tools, probably including the one your manager wants to use.
-^ And it integrates with a bunch of other tools, like Travis CI, which we'll be talking about at an upcoming Code People meeting.
+^ You can connect GitHub to an amazing number of other tools
+^ Trello, Jira, Slack, Pivotal, so many more
+^ Exact setup will vary by what you're trying to connect to
 
 ---
 
@@ -313,7 +310,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Destroying Silo Four
+# [fit] Destroying Silo Four
 
 - Use **Organizations** to see what a department does
 - Use **Watch** to see when a project changes
@@ -329,6 +326,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ### What does that department do?
 
 ---
+[.hide-footer]
 
 ![](images/organizations.png)
 
@@ -344,6 +342,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ### What's up with that project?
 
 ---
+[.hide-footer]
 
 ![](images/watch.png)
 
@@ -359,6 +358,7 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ### What does that person do?
 
 ---
+[.hide-footer]
 
 ![](images/follow.png)
 
@@ -385,40 +385,50 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 --- 
 
-# This Is Great
-## Now What?
+# [fit] This Is
+# [fit] **Great**
+
+---
+
+## [fit] Now What?
 
 - How can I read more?
 - How can I talk to others?
 
 ---
 
-# How can I read more?
+# [fit] How can I
+# [fit] read more?
 
-### https://help.github.com
-
----
-
-# How can I talk to others?
-## Online
-
-### https://z.umn.edu/tpslack
-### \#github or #hacker-hours
+# [fit] **https://help.github.com**
 
 ---
 
-# How can I talk to others?
-## In Person
+# [fit] How can I
+# [fit] talk to others
+# [fit] online?
 
-### http://umnhackerhours.github.io
+### [fit] **https://z.umn.edu/tpslack**
+### [fit] **#github** or **#hacker-hours**
 
 ---
+
+# [fit] How can I
+# [fit] talk to others
+# [fit] in person?
+
+### [fit] **http://umnhackerhours.github.io**
+
+---
+
+[.hide-footer]
 
 ![](images/socialite.jpg)
 
-# Thank You!
+# [fit] Thank 
+# [fit] You!
 
-## Ian Whitney
+## **Ian Whitney**
 ### `whit0694` (email)
-### `ian_whitney` (Slack)
+### `ian_whitney` (slack)
 ### `Surdyk's in Northrop` (coffee)
