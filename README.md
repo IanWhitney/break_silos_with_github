@@ -66,8 +66,8 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 # Silo One: Yourself
 
-- What changed?!
-- Why?!
+- I have no idea what I changed a year ago
+- I do not know why I made that change
 
 ^ When I go back to something I worked on that's now broken, these are the two questions I have. What Change and Why.
 
@@ -80,7 +80,11 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Use **Comparsions** to see what changed
+# [fit] **Comparsions**
+# [fit] to see what
+# [fit] changed
+
+### I have no idea what I changed a year ago
 
 ---
 
@@ -102,7 +106,10 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Use **Commits** to see what changed
+# [fit] **Commits**
+# [fit] to see why
+
+### I do not know why I made that change
 
 ---
 
@@ -142,8 +149,8 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 ---
 # Silo Two:<br />Your Team
 
-- How can you introduce projects to your team?
-- How can the team be aware of changes that are being made?
+- My team does not know what this project does
+- I do not know about changes they make
 
 ^ They can use the tools we already saw -- comparing and looking at commits
 ^ But GitHub offers tools that are great for teams!
@@ -157,7 +164,11 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Use **Readme** to introduce your projects
+# [fit] **Readme**
+# [fit] to introduce
+# [fit] your projects
+
+### My team does not know what this project does
 
 ---
 
@@ -171,7 +182,11 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Use **Pull Requests** to manage changes
+# [fit] **Pull Requests**
+# [fit] to manage
+# [fit] changes
+
+### I do not know about changes they make
 
 ---
 
@@ -203,22 +218,25 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 # Silo Three:<br />Your Department
 
-- No one else in your department knows what you do
-- Your project needs help from people in 3 other teams
-- Your manager wants to see progress in Jira/Trello/Etc
+- My department doesn't know what my team does
+- My team needs to work with people across my department
+- My manager wants to see progress in Jira/Trello/Etc
 
 --- 
 
 # Destroying Silo Three
 
-- Use **Pages** to show off your team or projects
-- Use **Teams** to collaborate with other people
+- Use **Pages** to show off your team
+- Use **Teams** to collaborate with others
 - Use **Integrations** to work with other tools
 
 ---
 
-# Use **Pages** to show off your team or projects
+# [fit] **Pages**
+# [fit] to show off
+# [fit] your team
 
+### My department doesn't know what my team does
 ---
 
 ![](images/pages.png)
@@ -232,7 +250,11 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Use **Teams** to collaborate with other people
+# [fit] **Teams**
+# [fit] to collaborate
+# [fit] with others
+
+### My team needs to work with people across my department
 
 ---
 
@@ -244,7 +266,11 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Use **Integrations** to work with other tools
+# [fit] **Integrations**
+# [fit] to work with
+# [fit] other tools
+
+### My manager wants to see progress in Jira/Trello/Etc
 
 ---
 
@@ -276,23 +302,27 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 # Silo Four:<br />Your University
 
-- You want to know what another department is working on
-- You want to know when a project changes
-- You want to know what another person is working on
-- You want to tell another person about a change
+- What does that department do?
+- What's up with that project?
+- What does that person do?
+- Does my friend know about this?
 
 ---
 
 # Destroying Silo Four
 
-- Use **Organizations** to see what a department is working on
+- Use **Organizations** to see what a department does
 - Use **Watch** to see when a project changes
-- Use **Follow** to see what a developer is working on
+- Use **Follow** to see what a person does
 - Use **@** to notify others
 
 ---
 
-# Use **Organizations** to see what a department is working on
+# [fit] **Organizations**
+# [fit] to see what
+# [fit] a department does
+
+### What does that department do?
 
 ---
 
@@ -303,7 +333,11 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Use **Watch** to see when a project changes
+# [fit] **Watch**
+# [fit] to see when
+# [fit] a project changes
+
+### What's up with that project?
 
 ---
 
@@ -314,19 +348,27 @@ footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
 
 ---
 
-# Use **Follow** to see what a developer is working on
+# [fit] **Follow**
+# [fit] to see what
+# [fit] a person does
+
+### What does that person do?
 
 ---
 
 ![](images/follow.png)
 
-^There's a developer or you collaborate with, or that you want to collaborate with
+^There's a person you collaborate with, or that you want to collaborate with
 ^ Check out their page to see their projects and recent changes
 ^ Click "Follow" to "receive notifications about their activity"
 
 ---
 
-# Use **@** to notify others
+# [fit] **@**
+# [fit] to notify
+# [fit] others
+
+### Does my friend know about this?
 
 ---
 
