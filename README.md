@@ -1,4 +1,5 @@
 footer: Ian Whitney -- `whit0694` (email) --  `ian_whitney` (slack)
+theme: Ostrich, 4
 
 [.footer: Wikimedia]
 
